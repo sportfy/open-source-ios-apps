@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1544-green.svg) ![](https://img.shields.io/badge/Updated-August%20%201,%202024-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1545-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202024-lightgrey.svg)
 
 Jump to
 
@@ -3644,7 +3644,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2022` `swift` `arkit` `realitykit` 
   -  ☆`15` 
 - [Basic Chat GPT 3.5/4](https://github.com/ynagatomo/BasicChatGPT): Converse with OpenAI Chat GPT
-  -  `2023` `swift` `gpt` 
+  -  `2023` `swift` `gpt` `openai` 
   -  ☆`75` 
 - [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice): Coffee brewing recipes
   - <a href=https://www.niftytreestudios.com/work/bean-juice>`https://www.niftytreestudios.com/work/bean-juice`</a>
@@ -4883,6 +4883,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/pitt500/OnlineStoreTCA/main/Images/demo1.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `tca` 
   -  ☆`200` 
+- [OpenAI Wrapper](https://github.com/adamlyttleapps/OpenAI-Wrapper-SwiftUI)
+  -  <a href='https://adamlyttleapps.com/demo/OpenAI-Wrapper-SwiftUI/demo-v3.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `openai` 
+  -  ☆`30` 
 - [OSRSUI](https://github.com/Dimillian/OSRSUI): Old School Runescape database browser
   -  `2020` `swift` `swiftui` `combine` 
   -  ☆`36` 
